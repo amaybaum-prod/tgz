@@ -1,8 +1,7 @@
 {
-  "settingsInheritedFrom": "amaybaum-staging/whitesource-config@main",
+  "settingsInheritedFrom": "amaybaum-prod/whitesource-config@main",
   "scanSettings": {
     "configMode": "LOCAL"
   }
 }
-
 
